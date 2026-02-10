@@ -124,12 +124,6 @@ Cet ensemble de ressources a pour objectif de faciliter l’apprentissage du mac
 ---
 
 ## Contribution
-Parfait 👍
-Voici une **formulation professionnelle** que tu peux ajouter dans ton **README GitHub** pour demander l’ajout de ressources en **français ou en anglais** :
-
----
-
-## 🌍 Langues des ressources
 
 Afin d’élargir l’accessibilité de ce dépôt à une communauté internationale,
 les **ressources en français et en anglais sont également les bienvenues**.
